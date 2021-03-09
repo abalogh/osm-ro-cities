@@ -1,0 +1,444 @@
+{"cityName":"targu-mures",
+ "streets":[{"id":"1505848062_1681857911","name":"Aleea Carpați","nameHu":"Kárpátok sétány"}
+,{"id":"1505848062_1281101761","name":"Aleea Cornișa","nameHu":"Párkány sétány"}
+,{"id":"1505848062_1277798587","name":"Aleea Covasna","nameHu":"Kovászna sétány"}
+,{"id":"1505848062_1645884614","name":"Aleea Hațeg","nameHu":"Hátszegi sétány"}
+,{"id":"1505848062_1997001551","name":"Aleea Lacului","nameHu":""}
+,{"id":"1505848062_2004170058","name":"Aleea Săvinești","nameHu":""}
+,{"id":"1505848062_1623399032","name":"Aleea Tâmplarilor","nameHu":""}
+,{"id":"1505848062_1528232692","name":"Aleea Vrancea","nameHu":"Vráncsa sétány"}
+,{"id":"1505848062_1241826808","name":"Bulevardul 1 Decembrie 1918","nameHu":"1918 December 1 sugárút"}
+,{"id":"1505848062_1068022421","name":"Bulevardul 1848","nameHu":"1848-as sugárút"}
+,{"id":"1505848062_963479565","name":"Bulevardul 22 Decembrie 1989","nameHu":"1989 December 22 sugárút"}
+,{"id":"1505848062_189032118","name":"Bulevardul Cetății","nameHu":"Vár sétány"}
+,{"id":"1505848062_807800022","name":"Bulevardul Pandurilor","nameHu":"Pandúrok sugárút"}
+,{"id":"1505848062_1879007065","name":"Calea Sighișoarei","nameHu":"Segesvári út"}
+,{"id":"1505848062_2024164534","name":"Corina","nameHu":""}
+,{"id":"1505848062_390868789","name":"Pasaj Izvorul Rece","nameHu":"Királykút köz"}
+,{"id":"1505848062_1951879833","name":"Pasaj Scăricica","nameHu":"Rákóczi lépcső"}
+,{"id":"1505848062_601681852","name":"Pasaj Subteran Teatru","nameHu":"Színház téri aluljáró"}
+,{"id":"1505848062_279406520","name":"Pasajul Lutului","nameHu":""}
+,{"id":"1505848062_1101522936","name":"Pasajul Mimozelor","nameHu":""}
+,{"id":"1505848062_1348630607","name":"Pasajul Palas","nameHu":"Palás köz"}
+,{"id":"1505848062_1452844651","name":"Pasajul Panseluțelor","nameHu":""}
+,{"id":"1505848062_709944848","name":"Pasajul Pădurii","nameHu":"Nagyerdő köz"}
+,{"id":"1505848062_749286591","name":"Piața Armatei","nameHu":""}
+,{"id":"1505848062_1410640603","name":"Piața Bernády György","nameHu":"Bernády György tér"}
+,{"id":"1505848062_1721390292","name":"Piața Cardinal Iuliu Hossu","nameHu":"Iuliu Hossu kardinális tér"}
+,{"id":"1505848062_1630757862","name":"Piața Gecse Dániel","nameHu":"Gecse Dániel tér"}
+,{"id":"1505848062_455717788","name":"Piața Gării","nameHu":"Állomás tér"}
+,{"id":"1505848062_772900995","name":"Piața Matei Corvin","nameHu":"Mátyás király tér"}
+,{"id":"1505848062_1454630281","name":"Piața Mărășești","nameHu":"Mărășești tér"}
+,{"id":"1505848062_1150892646","name":"Piața Onești","nameHu":"Onești tér"}
+,{"id":"1505848062_794994816","name":"Piața Petőfi Sándor","nameHu":"Petőfi Sándor tér"}
+,{"id":"1505848062_1375546642","name":"Piața Republicii","nameHu":"Köztársaság tér"}
+,{"id":"1505848062_1191022009","name":"Piața Teatrului","nameHu":"Színház tér"}
+,{"id":"1505848062_769013445","name":"Piața Trandafirilor","nameHu":"Rózsák tere"}
+,{"id":"1505848062_979405420","name":"Piața Unirii","nameHu":"Egyesülés tér"}
+,{"id":"1505848062_357512844","name":"Piața Victoriei","nameHu":""}
+,{"id":"1505848062_1065352704","name":"Strada 22 Decembrie 1989","nameHu":""}
+,{"id":"1505848062_627719878","name":"Strada 30 Decembrie","nameHu":"December 30 utca"}
+,{"id":"1505848062_1140995763","name":"Strada 8 Martie","nameHu":"Március 8 utca"}
+,{"id":"1505848062_1999401320","name":"Strada Abrudului","nameHu":"Abrudbányai utca"}
+,{"id":"1505848062_1580964785","name":"Strada Acarului","nameHu":"Váltóőr utca"}
+,{"id":"1505848062_941454513","name":"Strada Ady Endre","nameHu":"Ady Endre utca"}
+,{"id":"1505848062_1819208640","name":"Strada Aeroportului","nameHu":""}
+,{"id":"1505848062_336474893","name":"Strada Agricultorilor","nameHu":"Földműves utca"}
+,{"id":"1505848062_1124293995","name":"Strada Aiudului","nameHu":"Nagyenyedi utca"}
+,{"id":"1505848062_1170836725","name":"Strada Alba Iulia","nameHu":""}
+,{"id":"1505848062_383426995","name":"Strada Albinei","nameHu":"Méh utca"}
+,{"id":"1505848062_1518339958","name":"Strada Alexandru Papiu Ilarian","nameHu":"-"}
+,{"id":"1505848062_699475671","name":"Strada Alexandru Vlahuță","nameHu":"Alexandru Vlahuță utca"}
+,{"id":"1505848062_126749831","name":"Strada Aluniș","nameHu":"Mogyorós utca"}
+,{"id":"1505848062_851343555","name":"Strada Amsterdam","nameHu":""}
+,{"id":"1505848062_1723929962","name":"Strada Amurgului","nameHu":"Alkony utca"}
+,{"id":"1505848062_782008887","name":"Strada Ana Ipătescu","nameHu":"Ana Ipătescu utca"}
+,{"id":"1505848062_1531795348","name":"Strada Apaductului","nameHu":"Víztelep utca"}
+,{"id":"1505848062_129965100","name":"Strada Apelor","nameHu":""}
+,{"id":"1505848062_1836903382","name":"Strada Apicultorilor","nameHu":"Méhész utca"}
+,{"id":"1505848062_1665128476","name":"Strada Apiculturilor","nameHu":""}
+,{"id":"1505848062_80295293","name":"Strada Arany János","nameHu":"Arany János utca"}
+,{"id":"1505848062_1111333374","name":"Strada Argeșului","nameHu":"Argeş utca"}
+,{"id":"1505848062_663673988","name":"Strada Arieșului","nameHu":""}
+,{"id":"1505848062_2061010060","name":"Strada Arinului","nameHu":"Égerfa utca"}
+,{"id":"1505848062_1945781851","name":"Strada Armoniei","nameHu":"Harmónia utca"}
+,{"id":"1505848062_965565132","name":"Strada Artei","nameHu":"Művész utca"}
+,{"id":"1505848062_965519694","name":"Strada Atena","nameHu":""}
+,{"id":"1505848062_1147600414","name":"Strada Aurel Filimon","nameHu":"Aurel Filimon utca"}
+,{"id":"1505848062_479881410","name":"Strada Avram Iancu","nameHu":"Avram Iancu utca"}
+,{"id":"1505848062_965325789","name":"Strada Azuga","nameHu":"Azuga utca"}
+,{"id":"1505848062_1091295988","name":"Strada Azurului","nameHu":"Azúr utca"}
+,{"id":"1505848062_198143297","name":"Strada Baladei","nameHu":"Ballada utca"}
+,{"id":"1505848062_965153937","name":"Strada Banat","nameHu":""}
+,{"id":"1505848062_1821740716","name":"Strada Barajului","nameHu":"Alsógát utca"}
+,{"id":"1505848062_606427563","name":"Strada Barbu Ștefănescu Delavrancea","nameHu":"Vrancea utca"}
+,{"id":"1505848062_1378534704","name":"Strada Bartók Béla","nameHu":""}
+,{"id":"1505848062_1416603696","name":"Strada Bega","nameHu":"Béga utca"}
+,{"id":"1505848062_1184351008","name":"Strada Belșugului","nameHu":"Bőség utca"}
+,{"id":"1505848062_1709717014","name":"Strada Benefalău","nameHu":"Benefalvi utca"}
+,{"id":"1505848062_148822613","name":"Strada Berlin","nameHu":""}
+,{"id":"1505848062_467655396","name":"Strada Bernády György","nameHu":"Bernády György utca"}
+,{"id":"1505848062_148835938","name":"Strada Berzei","nameHu":"Gólya utca"}
+,{"id":"1505848062_2084898282","name":"Strada Bethlen Gábor","nameHu":"Bethlen Gábor utca"}
+,{"id":"1505848062_1177036915","name":"Strada Bicazului","nameHu":"Békási utca"}
+,{"id":"1505848062_641065860","name":"Strada Bihorului","nameHu":""}
+,{"id":"1505848062_674741997","name":"Strada Bistriței","nameHu":"Besztercei utca"}
+,{"id":"1505848062_593567199","name":"Strada Bobâlna","nameHu":""}
+,{"id":"1505848062_157643782","name":"Strada Bodoni","nameHu":""}
+,{"id":"1505848062_966191969","name":"Strada Bodoni Sándor","nameHu":"Bodoni Sándor utca"}
+,{"id":"1505848062_1710901839","name":"Strada Bodor Péter","nameHu":"Bodor Péter sor"}
+,{"id":"1505848062_594349182","name":"Strada Bogatei","nameHu":"Bogáti utca"}
+,{"id":"1505848062_1756584219","name":"Strada Bogdan Petriceicu Hașdeu","nameHu":"Bogdan Petriceicu Hașdeu utca"}
+,{"id":"1505848062_157891317","name":"Strada Bolyai","nameHu":"Bolyai utca"}
+,{"id":"1505848062_1690183753","name":"Strada Borsos Tamás","nameHu":""}
+,{"id":"1505848062_1582936721","name":"Strada Borzești","nameHu":""}
+,{"id":"1505848062_556468143","name":"Strada Bradului","nameHu":"Fenyő utca"}
+,{"id":"1505848062_547232933","name":"Strada Branului","nameHu":"Törcsvári utca"}
+,{"id":"1505848062_1060421843","name":"Strada Brașovului","nameHu":""}
+,{"id":"1505848062_165145278","name":"Strada Brăila","nameHu":"Brăila utca"}
+,{"id":"1505848062_163145290","name":"Strada Bucegi","nameHu":"Bucegi utca"}
+,{"id":"1505848062_1520198419","name":"Strada Bucinului","nameHu":"Bucsin utca"}
+,{"id":"1505848062_1173018941","name":"Strada București","nameHu":""}
+,{"id":"1505848062_2065173135","name":"Strada Budai Nagy Antal","nameHu":"Budai Nagy Antal utca"}
+,{"id":"1505848062_860350872","name":"Strada Budapesta","nameHu":""}
+,{"id":"1505848062_2098419338","name":"Strada Budiului","nameHu":"Bodoni utca"}
+,{"id":"1505848062_572829042","name":"Strada Bujorului","nameHu":"Bazsarózsa utca"}
+,{"id":"1505848062_1218494752","name":"Strada Burebista","nameHu":"Burebista utca"}
+,{"id":"1505848062_360043904","name":"Strada Busuiocului","nameHu":"Bazsalikom utca"}
+,{"id":"1505848062_294471002","name":"Strada Băilor","nameHu":"Fürdő utca"}
+,{"id":"1505848062_543062212","name":"Strada Băneasa","nameHu":"Băneasa utca"}
+,{"id":"1505848062_187428422","name":"Strada Bărăganului","nameHu":"Bărăgan utca"}
+,{"id":"1505848062_532750639","name":"Strada Caraiman","nameHu":"Caraiman utca"}
+,{"id":"1505848062_1190225986","name":"Strada Ceahlău","nameHu":""}
+,{"id":"1505848062_340987964","name":"Strada Ceangăilor","nameHu":"Csángó utca"}
+,{"id":"1505848062_1276422544","name":"Strada Cerbului","nameHu":"Szarvas utca"}
+,{"id":"1505848062_589021560","name":"Strada Cernavodă","nameHu":""}
+,{"id":"1505848062_177453557","name":"Strada Cernei","nameHu":""}
+,{"id":"1505848062_1207799688","name":"Strada Cetinei","nameHu":""}
+,{"id":"1505848062_640923193","name":"Strada Cibinului","nameHu":"Csibin utca"}
+,{"id":"1505848062_1832958075","name":"Strada Ciocanului","nameHu":"Kalapács utca"}
+,{"id":"1505848062_1863624990","name":"Strada Ciocârliei","nameHu":"Pacsirta utca"}
+,{"id":"1505848062_2059060232","name":"Strada Cireșului","nameHu":""}
+,{"id":"1505848062_1977441455","name":"Strada Cisnădie","nameHu":""}
+,{"id":"1505848062_181226751","name":"Strada Ciucaș","nameHu":"Csukás utca"}
+,{"id":"1505848062_1934564142","name":"Strada Ciucului","nameHu":"Csíki utca"}
+,{"id":"1505848062_184239108","name":"Strada Cloșca","nameHu":"Cloșca utca"}
+,{"id":"1505848062_1215917989","name":"Strada Colegiului","nameHu":"Kollégium utca"}
+,{"id":"1505848062_1551708249","name":"Strada Constandin Hagi Stoian","nameHu":"Constandin Hagi Stoian utca"}
+,{"id":"1505848062_1762063504","name":"Strada Constantin Dobrogeanu Gherea","nameHu":""}
+,{"id":"1505848062_97266583","name":"Strada Constantin Hagi Stoian","nameHu":""}
+,{"id":"1505848062_1254624106","name":"Strada Constantin Romanu Vivu","nameHu":"Constantin Romanu Vivu utca"}
+,{"id":"1505848062_1115082733","name":"Strada Constructorilor","nameHu":"Építők utca"}
+,{"id":"1505848062_980302492","name":"Strada Cornești","nameHu":""}
+,{"id":"1505848062_897340791","name":"Strada Cosminului","nameHu":"Cosmin utca"}
+,{"id":"1505848062_1841007979","name":"Strada Cotitura de Jos","nameHu":"Alsóforduló utca"}
+,{"id":"1505848062_1424610610","name":"Strada Crinului","nameHu":"Liliom utca"}
+,{"id":"1505848062_1701411290","name":"Strada Crizantemelor","nameHu":"Krizantém utca"}
+,{"id":"1505848062_189601439","name":"Strada Crișan","nameHu":"Crișan utca"}
+,{"id":"1505848062_1818954077","name":"Strada Crișului","nameHu":""}
+,{"id":"1505848062_1214349604","name":"Strada Crângului","nameHu":"Cserjés utca"}
+,{"id":"1505848062_1650522313","name":"Strada Cucului","nameHu":"Kakukk utca"}
+,{"id":"1505848062_963641077","name":"Strada Cugir","nameHu":""}
+,{"id":"1505848062_555477454","name":"Strada Cutezanței","nameHu":""}
+,{"id":"1505848062_396926260","name":"Strada Cuza Vodă","nameHu":"Cuza Vodă utca"}
+,{"id":"1505848062_2137828576","name":"Strada Câmpului","nameHu":"Mező utca"}
+,{"id":"1505848062_804352043","name":"Strada Călimanului","nameHu":""}
+,{"id":"1505848062_1837004102","name":"Strada Călărașilor","nameHu":"Lovasság utca"}
+,{"id":"1505848062_376618966","name":"Strada Căminului","nameHu":""}
+,{"id":"1505848062_1391758704","name":"Strada Căprioarei","nameHu":""}
+,{"id":"1505848062_1436147226","name":"Strada Căpâlna","nameHu":""}
+,{"id":"1505848062_97093788","name":"Strada David Rusu","nameHu":""}
+,{"id":"1505848062_11072566","name":"Strada Dealului","nameHu":""}
+,{"id":"1505848062_2079472695","name":"Strada Decebal","nameHu":"Decebal utca"}
+,{"id":"1505848062_312063467","name":"Strada Delureni","nameHu":""}
+,{"id":"1505848062_496846940","name":"Strada Depozitelor","nameHu":"Raktár utca"}
+,{"id":"1505848062_1416543649","name":"Strada Deva","nameHu":"Dévai utca"}
+,{"id":"1505848062_581516728","name":"Strada Dezrobirii","nameHu":"Felszabadulás utca"}
+,{"id":"1505848062_2096797030","name":"Strada Digului","nameHu":""}
+,{"id":"1505848062_1293467143","name":"Strada Dimitrie Cantemir","nameHu":"Dimitrie Cantemir utca"}
+,{"id":"1505848062_1659385368","name":"Strada Doctor Cornel Ciugudean","nameHu":"Doctor Cornel Ciugudean utca"}
+,{"id":"1505848062_1261354373","name":"Strada Doctor Emil A. Dandea","nameHu":"Dr. Emil A. Dandea utca"}
+,{"id":"1505848062_831750082","name":"Strada Doctor Louis Pasteur","nameHu":"Dr. Louis Pasteur utca"}
+,{"id":"1505848062_582103796","name":"Strada Doctor Victor Babeș","nameHu":"Dr. Victor Babeș utca"}
+,{"id":"1505848062_115520339","name":"Strada Dorobanților","nameHu":"Darabont utca"}
+,{"id":"1505848062_483684732","name":"Strada Dr. Czakó József","nameHu":"Dr. Czakó József utca"}
+,{"id":"1505848062_752334510","name":"Strada Dumbravei","nameHu":""}
+,{"id":"1505848062_1736057988","name":"Strada Duzilor","nameHu":"Eperfa utca"}
+,{"id":"1505848062_1358034077","name":"Strada Dâmboviței","nameHu":"Dâmbovița utca"}
+,{"id":"1505848062_1772133685","name":"Strada Dâmbul Pietros","nameHu":""}
+,{"id":"1505848062_1620024436","name":"Strada Ecaterina Varga","nameHu":"Varga Katalin utca"}
+,{"id":"1505848062_1416515333","name":"Strada Eden","nameHu":"Éden kert utca"}
+,{"id":"1505848062_1535730060","name":"Strada Episcop Ioan Bob","nameHu":""}
+,{"id":"1505848062_1386991514","name":"Strada Erou Locotenent Petre Popescu","nameHu":"Erou Locotenent Petre Popescu utca"}
+,{"id":"1505848062_1406627481","name":"Strada Evreilor Martiri","nameHu":""}
+,{"id":"1505848062_883628904","name":"Strada Fabrica de Zahăr","nameHu":"Cukorgyár utca"}
+,{"id":"1505848062_259515730","name":"Strada Fanate","nameHu":""}
+,{"id":"1505848062_1503130850","name":"Strada Florilor","nameHu":""}
+,{"id":"1505848062_272718767","name":"Strada Foișor","nameHu":"Lugas utca"}
+,{"id":"1505848062_2122218795","name":"Strada Fragilor","nameHu":"Szamóca utca"}
+,{"id":"1505848062_410663454","name":"Strada Franz Liszt","nameHu":"Liszt Ferenc utca"}
+,{"id":"1505848062_505520081","name":"Strada Frederic Joliot-Curie","nameHu":"Frederic Joliot-Curie utca"}
+,{"id":"1505848062_51393594","name":"Strada Frunzei","nameHu":""}
+,{"id":"1505848062_312529250","name":"Strada Furnicilor","nameHu":"Hangya utca"}
+,{"id":"1505848062_988822977","name":"Strada Furtunei","nameHu":"Vihar utca"}
+,{"id":"1505848062_1168792863","name":"Strada Fântânii","nameHu":"Külső-kutas utca"}
+,{"id":"1505848062_956640314","name":"Strada Făget","nameHu":"Bükk utca"}
+,{"id":"1505848062_1188812713","name":"Strada Făgărașului","nameHu":"Fogarasi utca"}
+,{"id":"1505848062_1871908206","name":"Strada Garofiței","nameHu":"Szegfű utca"}
+,{"id":"1505848062_424407119","name":"Strada General Gheorghe Avramescu","nameHu":"General Gheorghe Avramescu utca"}
+,{"id":"1505848062_1297293683","name":"Strada General Ion Dumitrache","nameHu":"General Ion Dumitrache utca"}
+,{"id":"1505848062_289406874","name":"Strada General Traian Moșoiu","nameHu":"General Traian Moșoiu utca"}
+,{"id":"1505848062_162524561","name":"Strada George Coșbuc","nameHu":"George Coșbuc utca"}
+,{"id":"1505848062_205886263","name":"Strada George Enescu","nameHu":""}
+,{"id":"1505848062_1220290158","name":"Strada Gheorghe Doja","nameHu":"Dózsa György utca"}
+,{"id":"1505848062_494067053","name":"Strada Gheorghe Marinescu","nameHu":""}
+,{"id":"1505848062_945362565","name":"Strada Gheorghe Pop de Băsești","nameHu":""}
+,{"id":"1505848062_335353822","name":"Strada Gheorghe Șincai","nameHu":"Gheorghe Șincai utca"}
+,{"id":"1505848062_480477125","name":"Strada Ghiocelului","nameHu":"Hóvirág utca"}
+,{"id":"1505848062_658896882","name":"Strada Gloriei","nameHu":"Dicsőség utca"}
+,{"id":"1505848062_734230924","name":"Strada Godeanu","nameHu":"Godeanu utca"}
+,{"id":"1505848062_301325891","name":"Strada Govora","nameHu":"Govora utca"}
+,{"id":"1505848062_303471409","name":"Strada Grapei","nameHu":"Borona utca"}
+,{"id":"1505848062_201483664","name":"Strada Grigore Ploesteanu","nameHu":""}
+,{"id":"1505848062_651024827","name":"Strada Grădinarilor","nameHu":"Kertész utca"}
+,{"id":"1505848062_825126776","name":"Strada Gábor Áron","nameHu":"Gábor Áron utca"}
+,{"id":"1505848062_388011958","name":"Strada Harghitei","nameHu":"Hargita utca"}
+,{"id":"1505848062_1199747904","name":"Strada Hegyi Lajos","nameHu":"Hegyi Lajos utca"}
+,{"id":"1505848062_979129123","name":"Strada Henri Coandă","nameHu":"Henri Coandă utca"}
+,{"id":"1505848062_1913509429","name":"Strada Hints Ottó","nameHu":""}
+,{"id":"1505848062_1586349610","name":"Strada Homorodului","nameHu":"Homoród utca"}
+,{"id":"1505848062_959191788","name":"Strada Horea","nameHu":"Horea utca"}
+,{"id":"1505848062_1568641358","name":"Strada Hunedoara","nameHu":"Hunyadi utca"}
+,{"id":"1505848062_2079527317","name":"Strada Ialomiței","nameHu":""}
+,{"id":"1505848062_1687962091","name":"Strada Iernutului","nameHu":"Radnóti utca"}
+,{"id":"1505848062_884334943","name":"Strada Ilie Munteanu","nameHu":"Ilie Munteanu utca"}
+,{"id":"1505848062_1800018410","name":"Strada Insulei","nameHu":"Sziget utca"}
+,{"id":"1505848062_315730813","name":"Strada Ioan Roman","nameHu":""}
+,{"id":"1505848062_1092258842","name":"Strada Ioan Vescan","nameHu":"Ioan Vescan utca"}
+,{"id":"1505848062_603291047","name":"Strada Ion Buteanu","nameHu":""}
+,{"id":"1505848062_184365620","name":"Strada Ion Creangă","nameHu":"Ion Creangă utca"}
+,{"id":"1505848062_1035042247","name":"Strada Ion Heliade Rădulescu","nameHu":""}
+,{"id":"1505848062_88093341","name":"Strada Ion Luca Caragiale","nameHu":"Ion Luca Caragiale utca"}
+,{"id":"1505848062_192402887","name":"Strada Ion Mihuț","nameHu":"Ion Mihuț utca"}
+,{"id":"1505848062_803868573","name":"Strada Ionel Ghiurchi","nameHu":""}
+,{"id":"1505848062_1032024030","name":"Strada Iosif Hodoș","nameHu":""}
+,{"id":"1505848062_1298483565","name":"Strada Islazului","nameHu":"Közlegelő utca"}
+,{"id":"1505848062_52085215","name":"Strada Iuliu Maniu","nameHu":"Iuliu Maniu utca"}
+,{"id":"1505848062_1305190944","name":"Strada Izvorului","nameHu":"Belsőkutas utca"}
+,{"id":"1505848062_1172640554","name":"Strada Jean Monnet","nameHu":""}
+,{"id":"1505848062_1062711341","name":"Strada Jilavei","nameHu":"Jilavei utca"}
+,{"id":"1505848062_381639645","name":"Strada Jiului","nameHu":"Zsíl utca"}
+,{"id":"1505848062_1456903748","name":"Strada Justiției","nameHu":""}
+,{"id":"1505848062_1950751541","name":"Strada Koteles Samuel","nameHu":""}
+,{"id":"1505848062_1674449680","name":"Strada Koós Ferenc","nameHu":"Koós Ferenc utca"}
+,{"id":"1505848062_906332440","name":"Strada Kós Károly","nameHu":"Kós Károly utca"}
+,{"id":"1505848062_1507726162","name":"Strada Köteles Sámuel","nameHu":""}
+,{"id":"1505848062_645436417","name":"Strada Kőrösi Csoma Sándor","nameHu":""}
+,{"id":"1505848062_664383157","name":"Strada Lalelelor","nameHu":"Tulipán utca"}
+,{"id":"1505848062_1912669779","name":"Strada Lavandei","nameHu":"Levendula utca"}
+,{"id":"1505848062_353502278","name":"Strada Lazar Blajnari","nameHu":""}
+,{"id":"1505848062_588646073","name":"Strada Lebedei","nameHu":"Hattyú utca"}
+,{"id":"1505848062_1602660054","name":"Strada Lev Tolstoi","nameHu":"Lev Tolsztoj utca"}
+,{"id":"1505848062_1783577997","name":"Strada Libertății","nameHu":"Szabadság utca"}
+,{"id":"1505848062_352349309","name":"Strada Liceului","nameHu":"Líceum utca"}
+,{"id":"1505848062_779820026","name":"Strada Liliacului","nameHu":"Orgona utca"}
+,{"id":"1505848062_1903447066","name":"Strada Liliacului - Orgona utca","nameHu":"Orgona utca"}
+,{"id":"1505848062_806158270","name":"Strada Lisabona","nameHu":""}
+,{"id":"1505848062_896445189","name":"Strada Livezeni","nameHu":""}
+,{"id":"1505848062_721654363","name":"Strada Livezii","nameHu":"Berek utca"}
+,{"id":"1505848062_768987212","name":"Strada Liviu Rebreanu","nameHu":"Liviu Rebreanu utca"}
+,{"id":"1505848062_444222747","name":"Strada Londra","nameHu":""}
+,{"id":"1505848062_546124093","name":"Strada Luceafărului","nameHu":""}
+,{"id":"1505848062_789476905","name":"Strada Ludușului","nameHu":"Ludas utca"}
+,{"id":"1505848062_1250741326","name":"Strada Luntrașilor","nameHu":"Csónakos utca"}
+,{"id":"1505848062_1073163348","name":"Strada Luxemburg","nameHu":""}
+,{"id":"1505848062_1722705470","name":"Strada Lăcrămioarei","nameHu":"Gyöngyvirág utca"}
+,{"id":"1505848062_9249451","name":"Strada Lămâiței","nameHu":"Kakukkfű utca"}
+,{"id":"1505848062_830910813","name":"Strada Lăpușna","nameHu":"Laposnya utca"}
+,{"id":"1505848062_459637872","name":"Strada Madrid","nameHu":""}
+,{"id":"1505848062_276954062","name":"Strada Madách Imre","nameHu":"Madách Imre utca"}
+,{"id":"1505848062_226127064","name":"Strada Maramureș","nameHu":"Máramaros utca"}
+,{"id":"1505848062_1819892646","name":"Strada Margaretelor","nameHu":"Margaréta utca"}
+,{"id":"1505848062_1116002005","name":"Strada Memorandumului","nameHu":"Memorándum utca"}
+,{"id":"1505848062_1542002992","name":"Strada Mestecănișului","nameHu":"Nyíros utca"}
+,{"id":"1505848062_1707708948","name":"Strada Mihai Eminescu","nameHu":"Mihai Eminescu utca"}
+,{"id":"1505848062_1093254669","name":"Strada Mihai Viteazul","nameHu":"Mihai Viteazul utca"}
+,{"id":"1505848062_726178132","name":"Strada Mihail Kogălniceanu","nameHu":"Mihail Kogălniceanu utca"}
+,{"id":"1505848062_28393256","name":"Strada Milcovului","nameHu":"Milcov utca"}
+,{"id":"1505848062_1844195864","name":"Strada Mioriței","nameHu":""}
+,{"id":"1505848062_194390068","name":"Strada Mircea Robu","nameHu":""}
+,{"id":"1505848062_1721693441","name":"Strada Mitropolit Andrei Șaguna","nameHu":"Mitropolit Andrei Șaguna utca"}
+,{"id":"1505848062_913183656","name":"Strada Moldovei","nameHu":""}
+,{"id":"1505848062_1219158230","name":"Strada Molter Károly","nameHu":""}
+,{"id":"1505848062_954574051","name":"Strada Morii","nameHu":"Malom utca"}
+,{"id":"1505848062_671051522","name":"Strada Motrului","nameHu":"Motru utca"}
+,{"id":"1505848062_325427377","name":"Strada Mugurilor","nameHu":""}
+,{"id":"1505848062_478391792","name":"Strada Muncii","nameHu":""}
+,{"id":"1505848062_1511274396","name":"Strada Muncitorilor","nameHu":"Munkás utca"}
+,{"id":"1505848062_188600290","name":"Strada Muntenia","nameHu":""}
+,{"id":"1505848062_302244469","name":"Strada Mureșeni","nameHu":""}
+,{"id":"1505848062_780119158","name":"Strada Mureșului","nameHu":"Maros utca"}
+,{"id":"1505848062_1688798168","name":"Strada Márton Áron","nameHu":""}
+,{"id":"1505848062_1556396630","name":"Strada Măcinului","nameHu":""}
+,{"id":"1505848062_1709696031","name":"Strada Măgurei","nameHu":""}
+,{"id":"1505848062_1719849492","name":"Strada Mărului","nameHu":""}
+,{"id":"1505848062_1724492052","name":"Strada Mărăști","nameHu":"Mărăști utca"}
+,{"id":"1505848062_1163339059","name":"Strada Nagy Pál","nameHu":"Nagy Pál utca"}
+,{"id":"1505848062_1253235125","name":"Strada Narciselor","nameHu":""}
+,{"id":"1505848062_132805054","name":"Strada Negoiului","nameHu":""}
+,{"id":"1505848062_1094518850","name":"Strada Nicolae Bălcescu","nameHu":""}
+,{"id":"1505848062_1572931734","name":"Strada Nicolae Grigorescu","nameHu":"Nicolae Grigorescu utca"}
+,{"id":"1505848062_532931996","name":"Strada Nicolae Iorga","nameHu":""}
+,{"id":"1505848062_978777000","name":"Strada Nirajului","nameHu":"Nyárád utca"}
+,{"id":"1505848062_1001571217","name":"Strada Nordului","nameHu":"Észak utca"}
+,{"id":"1505848062_1471839084","name":"Strada Nucului","nameHu":"Diófa utca"}
+,{"id":"1505848062_1045311590","name":"Strada Nufărului","nameHu":"Tavirózsa utca"}
+,{"id":"1505848062_667711947","name":"Strada Năvodari","nameHu":"Năvodari utca"}
+,{"id":"1505848062_423864745","name":"Strada Oituzului","nameHu":"Ójtózi utca"}
+,{"id":"1505848062_826297905","name":"Strada Oltului","nameHu":"Olt utca"}
+,{"id":"1505848062_952233708","name":"Strada Padeș","nameHu":"Pádis utca"}
+,{"id":"1505848062_440236420","name":"Strada Pajka Károly","nameHu":"Pajka Károly utca"}
+,{"id":"1505848062_952220552","name":"Strada Paris","nameHu":""}
+,{"id":"1505848062_469904008","name":"Strada Parângului","nameHu":"Parâng utca"}
+,{"id":"1505848062_869730897","name":"Strada Paul Chinezu","nameHu":"Kinizsi Pál utca"}
+,{"id":"1505848062_139290662","name":"Strada Petrilă","nameHu":""}
+,{"id":"1505848062_425327797","name":"Strada Petru Dobra","nameHu":"Petru Dobra utca"}
+,{"id":"1505848062_433229063","name":"Strada Petru Maior","nameHu":""}
+,{"id":"1505848062_1671364669","name":"Strada Piatra de moară","nameHu":""}
+,{"id":"1505848062_1342602882","name":"Strada Plaiului","nameHu":"Tisztás utca"}
+,{"id":"1505848062_996197069","name":"Strada Platoul Cornești","nameHu":"Somos-tető"}
+,{"id":"1505848062_555717843","name":"Strada Plevna","nameHu":"Plevna utca"}
+,{"id":"1505848062_1749517974","name":"Strada Plopilor","nameHu":"Jegenyesor utca"}
+,{"id":"1505848062_94751176","name":"Strada Plugarilor","nameHu":"Eke utca"}
+,{"id":"1505848062_1924867800","name":"Strada Plutelor","nameHu":"Tutaj utca"}
+,{"id":"1505848062_558442286","name":"Strada Podeni","nameHu":"Hídvég utca"}
+,{"id":"1505848062_4934942","name":"Strada Poligonului","nameHu":"Lőtér utca"}
+,{"id":"1505848062_68496494","name":"Strada Poligrafiei","nameHu":""}
+,{"id":"1505848062_1972409969","name":"Strada Pomicultorilor","nameHu":"Gyümölcskertész utca"}
+,{"id":"1505848062_140270913","name":"Strada Pomilor","nameHu":"Fasor utca"}
+,{"id":"1505848062_2008637109","name":"Strada Porumbului","nameHu":""}
+,{"id":"1505848062_558884989","name":"Strada Posada","nameHu":""}
+,{"id":"1505848062_545401906","name":"Strada Potopului","nameHu":""}
+,{"id":"1505848062_571475089","name":"Strada Poștei","nameHu":""}
+,{"id":"1505848062_951730522","name":"Strada Praga","nameHu":""}
+,{"id":"1505848062_218614076","name":"Strada Predeal","nameHu":"Predeal utca"}
+,{"id":"1505848062_730450320","name":"Strada Preot Ștefan Rusu","nameHu":"Ştefan Rusu utca"}
+,{"id":"1505848062_1263622881","name":"Strada Prieteniei","nameHu":"Barátság utca"}
+,{"id":"1505848062_706137563","name":"Strada Primăriei","nameHu":"Városháza utca"}
+,{"id":"1505848062_411840455","name":"Strada Primăverii","nameHu":"Tavasz utca"}
+,{"id":"1505848062_178272200","name":"Strada Principală","nameHu":""}
+,{"id":"1505848062_917492506","name":"Strada Privighetorii","nameHu":"Fülemüle utca"}
+,{"id":"1505848062_21592930","name":"Strada Progresului","nameHu":"Haladás utca"}
+,{"id":"1505848062_1339567873","name":"Strada Prutului","nameHu":""}
+,{"id":"1505848062_664804650","name":"Strada Pâinii","nameHu":"Kenyér utca"}
+,{"id":"1505848062_707703552","name":"Strada Pârâului","nameHu":"Patak utca"}
+,{"id":"1505848062_947408835","name":"Strada Păcii","nameHu":""}
+,{"id":"1505848062_74469339","name":"Strada Pădurii","nameHu":"Nagyerdő utca"}
+,{"id":"1505848062_1758570877","name":"Strada Păltiniș","nameHu":"Păltiniș utca"}
+,{"id":"1505848062_478044172","name":"Strada Pășunii","nameHu":""}
+,{"id":"1505848062_603049705","name":"Strada Rampei","nameHu":""}
+,{"id":"1505848062_1321763714","name":"Strada Recoltei","nameHu":"Termés utca"}
+,{"id":"1505848062_1148367806","name":"Strada Regele Ferdinand","nameHu":""}
+,{"id":"1505848062_977114075","name":"Strada Regina Elisabeta","nameHu":"Erzsébet királynő utca"}
+,{"id":"1505848062_1628874962","name":"Strada Remetea","nameHu":"Remeteszeg utca"}
+,{"id":"1505848062_1281387089","name":"Strada Republicii","nameHu":""}
+,{"id":"1505848062_1992657889","name":"Strada Retezatului","nameHu":"Retyezát utca"}
+,{"id":"1505848062_136976326","name":"Strada Revoluției","nameHu":"Forradalom utca"}
+,{"id":"1505848062_619501180","name":"Strada Reșița","nameHu":""}
+,{"id":"1505848062_615708958","name":"Strada Rodnei","nameHu":""}
+,{"id":"1505848062_1216133959","name":"Strada Rodniciei","nameHu":""}
+,{"id":"1505848062_1416117244","name":"Strada Roma","nameHu":""}
+,{"id":"1505848062_911767766","name":"Strada Romulus Guga","nameHu":""}
+,{"id":"1505848062_1927164884","name":"Strada Rozelor","nameHu":"Rózsa utca"}
+,{"id":"1505848062_639656924","name":"Strada Rozmarinului","nameHu":""}
+,{"id":"1505848062_1439330467","name":"Strada Rândunelelor","nameHu":"Fecske utca"}
+,{"id":"1505848062_1756861592","name":"Strada Rămurele","nameHu":""}
+,{"id":"1505848062_725846676","name":"Strada Răsăritului","nameHu":""}
+,{"id":"1505848062_644024759","name":"Strada Salcâmilor","nameHu":"Akác utca"}
+,{"id":"1505848062_949452045","name":"Strada Sapei","nameHu":"Kapa utca"}
+,{"id":"1505848062_610024324","name":"Strada Sebeșului","nameHu":"Sebes utca"}
+,{"id":"1505848062_1787825777","name":"Strada Secerei","nameHu":"Arató utca"}
+,{"id":"1505848062_1228784377","name":"Strada Secuilor Martiri","nameHu":"Székely vértanúk utca"}
+,{"id":"1505848062_1778594293","name":"Strada Semenic","nameHu":"Szoreny"}
+,{"id":"1505848062_1015241485","name":"Strada Semănătorilor","nameHu":"Vető utca"}
+,{"id":"1505848062_1934328768","name":"Strada Serafim Duicu","nameHu":""}
+,{"id":"1505848062_859190342","name":"Strada Sfântul Ioan","nameHu":""}
+,{"id":"1505848062_673070607","name":"Strada Sfântul Ștefan","nameHu":""}
+,{"id":"1505848062_561608654","name":"Strada Simion C. Mândrescu","nameHu":"Simion C. Mândrescu utca"}
+,{"id":"1505848062_639082516","name":"Strada Sinaia","nameHu":"Sinaia utca"}
+,{"id":"1505848062_1302362909","name":"Strada Siretului","nameHu":"Szeret utca"}
+,{"id":"1505848062_355923138","name":"Strada Sitarilor","nameHu":"Szitás utca"}
+,{"id":"1505848062_1588830275","name":"Strada Slatina","nameHu":"Slatina utca"}
+,{"id":"1505848062_93670732","name":"Strada Solidarității","nameHu":"Szolidaritás utca"}
+,{"id":"1505848062_810815741","name":"Strada Someșului","nameHu":"Szamos utca"}
+,{"id":"1505848062_991777755","name":"Strada Somnului","nameHu":"Harcsa utca"}
+,{"id":"1505848062_1754606101","name":"Strada Spicului","nameHu":"Kalász utca"}
+,{"id":"1505848062_1457740846","name":"Strada Spitalul Vechi","nameHu":"Régi Kórház utca"}
+,{"id":"1505848062_902971781","name":"Strada Stelelor","nameHu":"Csillag utca"}
+,{"id":"1505848062_1340816566","name":"Strada Strâmbă","nameHu":""}
+,{"id":"1505848062_1562821188","name":"Strada Subpădure","nameHu":"Subpădure utca"}
+,{"id":"1505848062_1520163696","name":"Strada Substejeriș","nameHu":""}
+,{"id":"1505848062_1329775179","name":"Strada Suceava","nameHu":""}
+,{"id":"1505848062_1328364454","name":"Strada Sudului","nameHu":""}
+,{"id":"1505848062_1250844841","name":"Strada Szotyori József","nameHu":""}
+,{"id":"1505848062_1273135156","name":"Strada Széchenyi István","nameHu":"Széchenyi István utca"}
+,{"id":"1505848062_1801407628","name":"Strada Sântana","nameHu":"Szentannai utca"}
+,{"id":"1505848062_415816924","name":"Strada Sârguinței","nameHu":"Szorgos utca"}
+,{"id":"1505848062_295373163","name":"Strada Sălciilor","nameHu":"Fűzfa utca"}
+,{"id":"1505848062_1550549398","name":"Strada Săliște","nameHu":"Szelistye utca"}
+,{"id":"1505848062_166414817","name":"Strada Săvinești","nameHu":"Săvinești utca"}
+,{"id":"1505848062_2103540081","name":"Strada Tamás Ernő","nameHu":"Tamás Ernő utca"}
+,{"id":"1505848062_663879402","name":"Strada Teilor","nameHu":"Hársfa utca"}
+,{"id":"1505848062_290886338","name":"Strada Teleki Sámuel","nameHu":"Teleki Sámuel utca"}
+,{"id":"1505848062_1545917760","name":"Strada Timișului","nameHu":"Temes utca"}
+,{"id":"1505848062_1471915085","name":"Strada Tineretului","nameHu":"Ífjúság utca"}
+,{"id":"1505848062_948287313","name":"Strada Tisei","nameHu":"Tisza utca"}
+,{"id":"1505848062_615643144","name":"Strada Toamnei","nameHu":"Ősz utca"}
+,{"id":"1505848062_601811355","name":"Strada Toplița","nameHu":"Hévízi utca"}
+,{"id":"1505848062_666064637","name":"Strada Transilvania","nameHu":"Erdély utca"}
+,{"id":"1505848062_64938813","name":"Strada Treierișului","nameHu":"Cséplő utca"}
+,{"id":"1505848062_1091321467","name":"Strada Trotușului","nameHu":"Tatros utca"}
+,{"id":"1505848062_404492952","name":"Strada Trébely","nameHu":""}
+,{"id":"1505848062_100583891","name":"Strada Tudor Vladimirescu","nameHu":"Tudor Vladimirescu utca"}
+,{"id":"1505848062_1512253780","name":"Strada Turnu Roșu","nameHu":"Vöröstoronyi utca"}
+,{"id":"1505848062_691526924","name":"Strada Tușnad","nameHu":"Tusnádi utca"}
+,{"id":"1505848062_1854977409","name":"Strada Târgului","nameHu":"Sáros utca"}
+,{"id":"1505848062_1860855350","name":"Strada Târnavei","nameHu":"Küküllő utca"}
+,{"id":"1505848062_206960514","name":"Strada Ulciorului","nameHu":"Kancsó utca"}
+,{"id":"1505848062_809403889","name":"Strada Unității","nameHu":"Egység utca"}
+,{"id":"1505848062_1697665278","name":"Strada Urcușului","nameHu":"Kaptató utca"}
+,{"id":"1505848062_711904097","name":"Strada Uzinei","nameHu":"Villanytelep utca"}
+,{"id":"1505848062_1071445483","name":"Strada Valea Rece","nameHu":"Hidegvölgy utca"}
+,{"id":"1505848062_1929700189","name":"Strada Vasile Goldiș","nameHu":"Vasile Goldiș utca"}
+,{"id":"1505848062_614742197","name":"Strada Vasile Lucaciu","nameHu":"Vasile Lucaciu utca"}
+,{"id":"1505848062_570213249","name":"Strada Vasile Lupu","nameHu":""}
+,{"id":"1505848062_416656963","name":"Strada Vasile Săbădeanu","nameHu":""}
+,{"id":"1505848062_946560431","name":"Strada Verde","nameHu":"Zöld utca"}
+,{"id":"1505848062_946560272","name":"Strada Verii","nameHu":""}
+,{"id":"1505848062_946453454","name":"Strada Viena","nameHu":""}
+,{"id":"1505848062_1813527330","name":"Strada Viile Dealului Mic","nameHu":"Kishegyszőlő utca"}
+,{"id":"1505848062_11638067","name":"Strada Viile Unu Mai","nameHu":""}
+,{"id":"1505848062_531511905","name":"Strada Viitorului","nameHu":"Jövő utca"}
+,{"id":"1505848062_1754567940","name":"Strada Violetelor","nameHu":""}
+,{"id":"1505848062_255249725","name":"Strada Vișeului","nameHu":"Visói utca"}
+,{"id":"1505848062_747586732","name":"Strada Vlădeasa","nameHu":""}
+,{"id":"1505848062_1925002266","name":"Strada Voinicenilor","nameHu":"Szabadi út"}
+,{"id":"1505848062_735994326","name":"Strada Vulcan","nameHu":"Vulkán utca"}
+,{"id":"1505848062_358751965","name":"Strada Vulturilor","nameHu":"Sas utca"}
+,{"id":"1505848062_1880065111","name":"Strada Vânătorilor","nameHu":"Vadász utca"}
+,{"id":"1505848062_1398389028","name":"Strada Zefirului","nameHu":"Zafír utca"}
+,{"id":"1505848062_106370045","name":"Strada Zeno Vancea","nameHu":"Váncsa Zénó utca"}
+,{"id":"1505848062_726513223","name":"Strada Zidarilor","nameHu":"Kőműves utca"}
+,{"id":"1505848062_576437443","name":"Strada Zânelor","nameHu":"Tündér utca"}
+,{"id":"1505848062_246404401","name":"Strada Zăgazului","nameHu":"Gát utca"}
+,{"id":"1505848062_1343811839","name":"Strada Zărnești","nameHu":"Zernyesti utca"}
+,{"id":"1505848062_1164846144","name":"Strada Înfrățirii","nameHu":"Testvériség utca"}
+,{"id":"1505848062_262779265","name":"Strada Îngustă","nameHu":"Keskeny utca"}
+,{"id":"1505848062_1464791430","name":"Strada Între Movile","nameHu":"Dombköz utca"}
+,{"id":"1505848062_107715455","name":"Strada Șelimbăr","nameHu":"Sellemberk utca"}
+,{"id":"1505848062_95079252","name":"Strada Șoimilor","nameHu":"Sólyom utca"}
+,{"id":"1505848062_1965033777","name":"Strada Ștefan Cicio Pop","nameHu":""}
+,{"id":"1505848062_1210087232","name":"Strada Ștefan cel Mare","nameHu":"Ștefan cel Mare utca"}
+,{"id":"1505848062_1291405537","name":"Strada Șurianu","nameHu":""}
+,{"id":"1505848062_288753487","name":"Strada Țesătorilor","nameHu":"Takács utca"}
+] }
